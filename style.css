@@ -18,7 +18,8 @@ a {
     color: white;
     border: 3px solid white;
     padding: 10px;
-    margin: 255px;
+    margin-left:200px;
+    margin-right:200px;
     border-radius: 10px;
     text-decoration: none;
 }
@@ -56,6 +57,10 @@ h3 {
     text-align: center;
     font-size: 20px;
     color: white;
+}
+
+iframe {
+    margin:20px;
 }
 
 iframe:hover {
@@ -114,5 +119,15 @@ footer {
 .footer {
     font-size:25px;
     color:white;
+}
+
+nav {
+   justify-content:center;
+    display:flex;
+}
+
+div {
+   justify-content:center;
+    display:flex;
 }
 
